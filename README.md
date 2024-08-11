@@ -57,6 +57,6 @@ docker run -p 4000:80 stop-words-remover
 3. Access the script’s output through the Docker container.
 
 ## Files Included
-**stopWordsRemover.py**: Python script for removing stop words and counting word frequencies.
-**random_paragraphs.txt**: Sample text file for processing.
-**Dockerfile**: Docker configuration file.
+**`stopWordsRemover.py`**: Python script for removing stop words and counting word frequencies.
+**`random_paragraphs.txt`**: Sample text file for processing.
+**`Dockerfile`**: Docker configuration file.
